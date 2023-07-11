@@ -11,4 +11,4 @@
 ![Img1](Screenshot/2023-07-11.png)
 
 - Smartphone/Android
-![Img1](Screenshot/2023-07-11 (2).png)
+![image.png](Screenshot/2023-07-11 (2).png)
