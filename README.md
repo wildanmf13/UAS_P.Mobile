@@ -8,7 +8,7 @@
 ## Hasil Output Project
 
 - PC/Laptop
-![Img 1](Screenshot/2023-07-11.png)
+![Img1](Screenshot/2023-07-11.png)
 
 - Smartphone/Android
-![Img 2](Screenshot/2023-07-11 (2).png)
+![Img1](Screenshot/2023-07-11 (2).png)
